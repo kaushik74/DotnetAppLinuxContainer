@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+S0RfM1ExG1ch7IZnSfO5Zh9yuBFLE4gnR0Nqh7ZQP/fWb0zLzplUKnu2ZvNjbxLxPLVzdFEA6Cx9knLmbwa7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sreenivas.kaushik\\source\\repos\\DotnetappLinuxContainer\\DotnetappLinuxContainer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sreenivas.kaushik\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
+  ],
+  "logs": []
+}
